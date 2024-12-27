@@ -1,6 +1,5 @@
 # TreeZ_View
 
-![Logo](treez.svg)
 
 ```
   _______            ________      ___               
@@ -77,3 +76,6 @@ Pour commencer avec **TreeZ_View**, exécutez simplement le logiciel après inst
 ## 📜 Licence
 
 TreeZ_View est distribué sous la licence [MIT](LICENSE). Vous êtes libre d’utiliser, modifier et distribuer ce projet.
+
+
+![Logo](treez.svg)
