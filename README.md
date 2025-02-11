@@ -12,70 +12,70 @@
                        |______|                      
 ```
 
-**TreeZ_View** est un visionneur d’arborescence moderne et puissant, conçu pour explorer et analyser des structures hiérarchiques de manière rapide et efficace. Doté d’une interface graphique intuitive et multi-OS, TreeZ_View propose une fonctionnalité de recherche avancée incluant l’autocomplétion.
+
+**TreeZ_View** is a modern and powerful tree structure viewer designed to explore and analyze hierarchical structures quickly and efficiently. Featuring an intuitive graphical interface and multi-OS support, TreeZ_View provides an advanced search function with autocomplete.
 
 ---
 
-## ⚙️ Statut de développement
+## ⚙️ Development Status
 
-TreeZ_View est actuellement en cours de développement. Des mises à jour régulières seront publiées pour améliorer ses fonctionnalités et corriger les éventuels bugs.
-
----
-
-## ✨ Fonctionnalités principales
-
-- **Visualisation intuitive** :
-
-  - Affichage clair et organisé des arborescences pour une exploration facile.
-
-- **Recherche avancée** :
-
-  - Moteur de recherche performant avec autocomplétion pour retrouver rapidement les éléments souhaités.
-
-- **Compatibilité multi-plateforme** :
-
-  - Fonctionne parfaitement sur Windows, macOS et Linux.
-
-- **Performance** :
-
-  - Construit en Go pour une exécution rapide et efficace.
+TreeZ_View is currently under development. Regular updates will be released to enhance features and fix potential bugs.
 
 ---
 
-## 🚀 Utilisation
+## ✨ Key Features
 
-### Démarrage rapide
+- **Intuitive Visualization**:
 
-Pour commencer avec **TreeZ_View**, exécutez simplement le logiciel après installation. Une interface intuitive vous guidera pour charger et explorer vos données.
+  - Clear and organized tree structure display for easy navigation.
 
-### Navigation et Recherche
+- **Advanced Search**:
 
-1. **Ouverture d'une arborescence** :
+  - Powerful search engine with autocomplete to quickly find desired elements.
 
-   - Chargez une structure hiérarchique à analyser (fichiers, dossiers, ou données custom).
+- **Multi-Platform Compatibility**:
 
-2. **Recherche rapide** :
+  - Fully functional on Windows, macOS, and Linux.
 
-   - Tapez un mot-clé dans la barre de recherche pour accéder à l’élément voulu grâce à l’autocomplétion.
+- **High Performance**:
 
-3. **Navigation facile** :
-
-   - Explorez les nœuds et les sous-nœuds grâce à une interface claire et réactive.
-
+  - Built in **Java** and **JavaFX** for fast and efficient execution.
 
 ---
 
-## 👥 À propos
+## 🚀 Usage
 
-- **Langage principal** : Go (Golang)
-- **Auteur** : Rattus
+### Quick Start
 
+To get started with **TreeZ_View**, simply run the software after installation. An intuitive interface will guide you through loading and exploring your data.
+
+### Navigation and Search
+
+1. **Opening a Tree Structure**:
+
+   - Load a hierarchical structure to analyze (files, folders, or custom data).
+
+2. **Quick Search**:
+
+   - Type a keyword in the search bar to instantly access the desired item using autocomplete.
+
+3. **Easy Navigation**:
+
+   - Browse nodes and sub-nodes using a clear and responsive interface.
 
 ---
 
-## 📜 Licence
+## 👥 About
 
-TreeZ_View est distribué sous la licence [MIT](LICENSE). Vous êtes libre d’utiliser, modifier et distribuer ce projet.
+- **Main Language**: Java (JavaFX for GUI)
+- **Author**: Rattus
+- **This project has been partially assisted by AI for code generation and improvements, but all logic and design decisions were made by a human developer.**
 
+---
 
-![Logo](treez.svg)
+## 📜 License
+
+TreeZ_View is distributed under the [MIT License](LICENSE). You are free to use, modify, and distribute this project.
+
+![Logo](logo.svg)
+
